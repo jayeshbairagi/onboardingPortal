@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/onboardingPortal/static/js/main.4a234c4c.js",
+    "index.html": "/onboardingPortal/index.html",
+    "main.4a234c4c.js.map": "/onboardingPortal/static/js/main.4a234c4c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4a234c4c.js"
+  ]
+}
